@@ -27,10 +27,10 @@ print("I'm going use the calculator functions to multiply 5 and 6")
 x = multiply(5,6)
 print(x)
 
-print("I'm going use the calculator functions to square 3)
+print("Im going to use calculater functions to square 3")
 y = square(3)
 print(y)
 
-print("I'm going use the calculator functions to multiply 5)
-z = cube(5)
+print("Im going to use calculater functions to cube 900")
+z = cube(900)
 print(z)
