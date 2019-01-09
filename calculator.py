@@ -10,6 +10,10 @@ def square(a):
 def cube(a):
     return a ** 3
 
+# This part of the code defines a function for square n times
+def square(a,b):
+    return a ** b
+
 # This part of the code defines a function for division
 def division(a,b):
     return a / b
@@ -34,3 +38,8 @@ print(y)
 print("Im going to use calculater functions to cube 900")
 z = cube(900)
 print(z)
+
+rint("I'm going use the calculator functions to square 2 and 8 times")
+k = square(2,8)
+print(k)
+
